@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\USUARIO\AppData\local\JetBrains\Rider2020.1\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\USUARIO\AppData\local\JetBrains\Rider2020.1\resharper-host\local\Transient\ReSharperHost\v201\SolutionCaches\_FINALPROGRAMACIONGRAFICA.1143079798.00" t="ExcludeRecursive" />
+    <e p="E:\1.SEMESTRE 7\PROGRAMACION GRAFICA\FINALPROGRAMACIONGRAFICA" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Baseball Bats" t="Include">
+          <e p="Documentation" t="Include">
+            <e p="Documentation.txt" t="Include" />
+          </e>
+        </e>
+        <e p="Blood Effect" t="Include">
+          <e p="BloodFX.cs" t="Include" />
+        </e>
+        <e p="Materials" t="Include">
+          <e p="Texture ShaderDefinitivo 1.shader" t="Include" />
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="BallFX.cs" t="Include" />
+          <e p="BATPLAYER.cs" t="Include" />
+          <e p="MoveBalaPlaceHolder.cs" t="Include" />
+        </e>
+        <e p="Silhouete effect" t="Include">
+          <e p="PostProcessSilhouete.cs" t="Include" />
+          <e p="SilhoueteShader.shader" t="Include" />
+        </e>
+      </e>
+      <e p="FINALPROGRAMACIONGRAFICA.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
