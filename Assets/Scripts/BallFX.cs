@@ -77,6 +77,7 @@ public class BallFX : MonoBehaviour
 
             }
             t += Time.deltaTime;
+            
             Vector3 dir = (-transform.position + Target.position).normalized;
             transform.Translate(dir*Time.deltaTime);
 
